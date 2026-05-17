@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.local
+.env.production
+*.pem
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+backend/venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Mac
+.DS_Store
