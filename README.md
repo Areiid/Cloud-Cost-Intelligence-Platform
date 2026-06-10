@@ -1,6 +1,6 @@
 # Cloud Cost Intelligence Platform
 
-http://localhost:5173
+http://127.0.0.1:8000/
 
 An AI-powered cloud analytics platform that monitors cloud spending, detects anomalies, forecasts future costs, and provides intelligent optimization recommendations.
 
